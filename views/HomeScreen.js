@@ -26,8 +26,6 @@ const HomeScreen = ({ navigation }) => {
     text1: {
       color: getColor("black", "#35FBD6"),
       textAlign: "center",
-      //alignContent:'center',
-      //alignItems: 'center',
       fontSize: 30,
       fontWeight:'bold',
       marginBottom: 10,

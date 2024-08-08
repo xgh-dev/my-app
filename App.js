@@ -18,11 +18,9 @@ const colors = {
   dark1: "#22252D",
   dark2: "#292B36",
   dark3: "#272B33",
-  dark4: "#",
   light1: "#FFF",
   light2: "#F1F1F1",
   light3: "#F7F7F7",
-  light4: "#",
 };
 
 export default function App() {
